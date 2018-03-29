@@ -1,0 +1,16 @@
+[
+  {
+    "outputFileName": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+    "inputFiles": [
+      "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/css/teste.css",
+    "inputFiles": [
+      "wwwroot/css/site.css",
+      "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css"
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\API",
+    "\\API\\PerformanceApi",
+    "\\API\\PerformanceApi\\PerformanceApi",
+    "\\MVC",
+    "\\MVC\\PerformanceAspNetCoreMVC"
+  ],
+  "SelectedNode": "\\API\\PerformanceApi\\PerformanceApi.sln",
+  "PreviewInSolutionExplorer": false
+}
